@@ -1,10 +1,16 @@
 *{
-background-color: black;
-text-align: center;
-font-family: Verdana, sans-serif;
+    background-color: black;
+    text-align: center;
+    font-family: Verdana, sans-serif;
 }
 
 h1{
     color:white;
     font-size: 50px;
 }
+
+.link p{
+    color: aquamarine;
+    text-decoration: underline;
+}
+
