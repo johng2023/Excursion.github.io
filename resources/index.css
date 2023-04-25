@@ -9,7 +9,7 @@ h1{
     font-size: 50px;
 }
 
-.link a{
+a{
     color: aquamarine;
     text-decoration: underline;
 }
@@ -19,12 +19,18 @@ h1{
     font-size: 42px;
     font-weight: 300;
 }
-.section h5{
-    color: gray;
+.section h4{
+    color: rgb(194, 190, 190);
     font-size: 21px;
 }
 .images{
     display: block;
     align-items: center;
 }
+ p{
+    font-size:  42px;
+    font-weight: 300;
+    color:white;
+}
+
 
