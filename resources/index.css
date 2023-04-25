@@ -9,7 +9,7 @@ h1{
     font-size: 50px;
 }
 
-.link p{
+.link a{
     color: aquamarine;
     text-decoration: underline;
 }
@@ -23,6 +23,8 @@ h1{
     color: gray;
     font-size: 21px;
 }
-.images img{
+.images{
     display: block;
+    align-items: center;
 }
+
