@@ -33,4 +33,9 @@ a{
     color:white;
 }
 
+.copyright p{
+    float:right;
+    font-size: 21px;
+    color:rgb(216, 216, 216)
+}
 
